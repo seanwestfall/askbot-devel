@@ -1,9 +1,5 @@
-====================================
 Askbot - a Django Q&A forum platform
 ====================================
-
-SCREENSHOTS
-==========
 
 ![askbot example](screenshots/askbot-102.png)
 
